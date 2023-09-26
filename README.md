@@ -1,2 +1,3 @@
 # web-shit
-a shitty web
+## A shitty web
+should be a portofolio website but idk its not done yet i think
